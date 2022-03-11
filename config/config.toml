@@ -1,0 +1,19 @@
+[viewer]
+    Title = "go-life"
+    Description = "狗和娜"
+    Logo = "/resource/images/logo.png"
+    Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = "https://space.bilibili.com/455136813"
+    Zhihu = "https://www.zhihu.com/people/xing-he-82-67-75"
+    Avatar1 = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F0408%2Fa2fdc5d2j00q8g14d003wd200u00190g00u00190.jpg&refer=http%3A%2F%2Fdingyue.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1648387589&t=79558b241641d3f46c3d6cbdb1e7e732"
+    Avatar ="https://img0.baidu.com/it/u=828969017,2329336378&fm=253&fmt=auto&app=138&f=JPEG?w=100&h=100"
+    UserName = "大兵"
+    UserDesc = "帅哥"
+[system]
+    CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+    QiniuAccessKey = "mvVFjwTrsvs_mDvk8f-8_2hTuFpWl0VSpIJ0g8Y7"
+    QiniuSecretKey = "19yamd6Aix5eiBS2wdpAfLw7cShbVZSwY3hq9IMZ"
+    Valine = true
+    ValineAppid = "d2GROLfBzgePXXGhoxbi9i3U-gzGzoHsz"
+    ValineAppkey = "8NRE0SEkSA3wXVKbss0dqXqK"
+    ValineServerURL = "https://d2grolfb.lc-cn-n1-shared.com"
