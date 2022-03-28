@@ -11,9 +11,9 @@
     UserDesc = "帅哥"
 [system]
     CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
-    QiniuAccessKey = "mvVFjwTrsvs_mDvk8f-8_2hTuFpWl0VSpIJ0g8Y7"
-    QiniuSecretKey = "19yamd6Aix5eiBS2wdpAfLw7cShbVZSwY3hq9IMZ"
+    QiniuAccessKey = 换成自己的
+    QiniuSecretKey = 换成自己的
     Valine = true
-    ValineAppid = "d2GROLfBzgePXXGhoxbi9i3U-gzGzoHsz"
-    ValineAppkey = "8NRE0SEkSA3wXVKbss0dqXqK"
+    ValineAppid = 换成自己的
+    ValineAppkey = 换成自己的
     ValineServerURL = "https://d2grolfb.lc-cn-n1-shared.com"
